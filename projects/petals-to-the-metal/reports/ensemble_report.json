@@ -1,0 +1,35 @@
+{
+  "models": [
+    "EfficientNetB3 ImageNet",
+    "EfficientNetV2S ImageNet"
+  ],
+  "weight_grid": [
+    {
+      "weight_a": 0.0,
+      "validation_macro_f1": 0.9482699896560012
+    },
+    {
+      "weight_a": 0.25,
+      "validation_macro_f1": 0.9510365931288328
+    },
+    {
+      "weight_a": 0.5,
+      "validation_macro_f1": 0.9547906400305297
+    },
+    {
+      "weight_a": 0.75,
+      "validation_macro_f1": 0.94763517072969
+    },
+    {
+      "weight_a": 1.0,
+      "validation_macro_f1": 0.9455887314090158
+    }
+  ],
+  "selected": {
+    "weight_a": 0.5,
+    "validation_macro_f1": 0.9547906400305297
+  },
+  "rows": 7382,
+  "source_script_version": 362195726,
+  "source": "Observed successful Kaggle notebook output"
+}

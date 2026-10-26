@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
+<title id="title">Pranjal Singh — Kaggle achievements</title><desc id="desc">Flower classification: 12 of 50 teams. Connect X: 41 of 255 teams. Leaderboard snapshot, October 25, 2026.</desc>
+<rect width="1200" height="330" rx="22" fill="#0d1423"/><rect x="0" y="0" width="8" height="330" fill="#38bdf8"/>
+<g font-family="Segoe UI,Arial,sans-serif"><text x="48" y="55" fill="#67d4ff" font-size="16" letter-spacing="3">PRANJAL SINGH · COMPETITION PORTFOLIO</text>
+<text x="48" y="110" fill="#f5f8ff" font-size="42" font-weight="700">Kaggle achievements</text>
+<text x="48" y="148" fill="#acbdd4" font-size="20">Computer vision · Game AI · Reproducible engineering</text>
+<rect x="48" y="181" width="535" height="104" rx="12" fill="#17243b"/><text x="72" y="215" fill="#a8bad2" font-size="18">PETALS TO THE METAL</text><text x="72" y="258" fill="#7dd3fc" font-size="34" font-weight="700">12 / 50</text><text x="255" y="255" fill="#e2e8f0" font-size="19">0.94693 macro F1</text>
+<rect x="607" y="181" width="545" height="104" rx="12" fill="#17243b"/><text x="631" y="215" fill="#a8bad2" font-size="18">CONNECT X</text><text x="631" y="258" fill="#a5b4fc" font-size="34" font-weight="700">41 / 255</text><text x="835" y="255" fill="#e2e8f0" font-size="19">Native C++ search agent</text>
+<text x="48" y="311" fill="#a8bad2" font-size="13">Ongoing competition standings · Snapshot: October 25, 2026 · Code, metrics and evidence included</text></g></svg>

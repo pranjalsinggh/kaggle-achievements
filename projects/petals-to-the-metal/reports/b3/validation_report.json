@@ -1,0 +1,18 @@
+{
+  "status": "trained",
+  "model": "EfficientNetB3 ImageNet",
+  "seed": 20261024,
+  "size": 331,
+  "counts": {
+    "train": 12753,
+    "val": 3712,
+    "test": 7382
+  },
+  "validation_macro_f1": 0.9455887314090158,
+  "validation_accuracy": 0.9450431034482759,
+  "fine_tune_epochs": 20,
+  "tta_views": 4,
+  "training_data": "official train split only; official val split held out",
+  "test_labels_used": false,
+  "source": "Observed Kaggle saved notebook output, scriptVersionId=361490733"
+}

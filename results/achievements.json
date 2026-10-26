@@ -1,0 +1,30 @@
+{
+  "owner": "pranjalsinggh",
+  "published_date": "2026-10-26",
+  "snapshot_date": "2026-10-25",
+  "rank_source": "User-supplied Kaggle dashboard screenshot; filename date, not independently timestamp-verified",
+  "competitions": [
+    {
+      "slug": "tpu-getting-started",
+      "name": "Petals to the Metal",
+      "rank": 12,
+      "teams": 50,
+      "rank_divided_by_team_count_percent": 24.0,
+      "kaggle_macro_f1": 0.94693,
+      "scored_script_version_id": 362195726,
+      "validation_selection_macro_f1": 0.9547906400305297,
+      "status": "ongoing",
+      "medal_or_final_place_claimed": false
+    },
+    {
+      "slug": "connectx",
+      "name": "Connect X",
+      "rank": 41,
+      "teams": 255,
+      "rank_divided_by_team_count_percent": 16.08,
+      "rating_at_snapshot": null,
+      "status": "ongoing",
+      "medal_or_final_place_claimed": false
+    }
+  ]
+}

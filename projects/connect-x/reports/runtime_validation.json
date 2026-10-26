@@ -1,0 +1,34 @@
+{
+  "runtime": "Kaggle CPU notebook, Linux x86_64, glibc 2.39, Python 3.13.15",
+  "native_first_call_seconds": 1.4791293979999978,
+  "search_depth": 18,
+  "nodes": 5748736,
+  "tactical_boards": 308,
+  "selfplay_seconds": 14.127596926000024,
+  "selfplay_steps": 43,
+  "selfplay_rewards": [
+    0,
+    0
+  ],
+  "selfplay_status": [
+    "DONE",
+    "DONE"
+  ],
+  "benchmarks": {
+    "random": {
+      "wins": 8,
+      "draws": 0,
+      "losses": 0
+    },
+    "negamax": {
+      "wins": 8,
+      "draws": 0,
+      "losses": 0
+    }
+  },
+  "benchmark_budget_seconds": 0.045,
+  "submission_budget_seconds": 1.45,
+  "notebook": "https://www.kaggle.com/code/pranjalsinggh/connect-x-native-runtime-validation",
+  "linux_library_sha256": "fb4797e1a5ed5f39f6210f45e5b8ed90f42433e711dd744ebc2fdf585ba22eda",
+  "source": "Observed completed notebook outputs through the Kaggle UI. Competition validator is a separate runtime and is still pending."
+}

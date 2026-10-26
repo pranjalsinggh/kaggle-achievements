@@ -1,0 +1,9 @@
+{
+  "status": "completed",
+  "calibration_accepted": false,
+  "applied_alpha": 0.0,
+  "reason": "No tested class-prior adjustment improved all three stratified validation folds.",
+  "baseline_validation_macro_f1": 0.9547906400305297,
+  "submission_made": false,
+  "source_script_version": 362196936
+}
